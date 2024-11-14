@@ -1,6 +1,5 @@
 import requests
 import re
-import urllib.parse
 
 class SlotGroupError(Exception):
     pass
